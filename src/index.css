@@ -1,0 +1,11 @@
+@import 'bootstrap';
+
+
+img {
+  object-fit: contain;
+  width: 100%;
+}
+
+main {
+  height: 100%;
+}
