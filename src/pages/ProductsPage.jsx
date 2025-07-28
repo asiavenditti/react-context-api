@@ -6,9 +6,6 @@ export default function ProductsPage() {
 
     const { products } = useProductsContext()
 
-
-
-
     return (
         <div className="container my-5">
             <h1 className="my-5 text-center">I nostri prodotti</h1>
